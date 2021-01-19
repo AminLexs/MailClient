@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfTemplate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Template>
+    <Name>tttttttttttttt</Name>
+    <Subject>gggg</Subject>
+    <Body>hhhhhhhhhh</Body>
+    <Attaches>
+      <anyType xsi:type="xsd:string">C:\Users\User\Downloads\! Задачи.docx</anyType>
+      <anyType xsi:type="xsd:string">C:\Users\User\Downloads\-_vQm8NDtNQ.jpg</anyType>
+    </Attaches>
+  </Template>
+  <Template>
+    <Name>gggg</Name>
+    <Subject>rrr</Subject>
+    <Body>ffff</Body>
+    <Attaches>
+      <anyType xsi:type="xsd:string">C:\Users\User\Downloads\! Задачи.docx</anyType>
+    </Attaches>
+  </Template>
+</ArrayOfTemplate>

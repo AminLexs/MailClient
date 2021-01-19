@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfMailingObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MailingObject>
+    <Name>First</Name>
+    <ListEmails>
+      <string>ttt@mail.ru</string>
+      <string>rrr@mail.ru</string>
+    </ListEmails>
+    <Template>
+      <Name>tttttttttttttt</Name>
+      <Subject>gggg</Subject>
+      <Body>hhhhhhhhhh</Body>
+      <Attaches>
+        <anyType xsi:type="xsd:string">C:\Users\User\Downloads\! Задачи.docx</anyType>
+        <anyType xsi:type="xsd:string">C:\Users\User\Downloads\-_vQm8NDtNQ.jpg</anyType>
+      </Attaches>
+    </Template>
+    <Hours>1</Hours>
+    <Minutes>2</Minutes>
+  </MailingObject>
+  <MailingObject>
+    <Name>Second</Name>
+    <ListEmails>
+      <string>mmm@mail.ru</string>
+      <string>nnn@mail.ru</string>
+    </ListEmails>
+    <Template>
+      <Name>gggg</Name>
+      <Subject>rrr</Subject>
+      <Body>ffff</Body>
+      <Attaches>
+        <anyType xsi:type="xsd:string">C:\Users\User\Downloads\! Задачи.docx</anyType>
+      </Attaches>
+    </Template>
+    <Hours>2</Hours>
+    <Minutes>3</Minutes>
+  </MailingObject>
+</ArrayOfMailingObject>
